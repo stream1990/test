@@ -1,1 +1,1 @@
-xxxx
+alert(/qq/);
